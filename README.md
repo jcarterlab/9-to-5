@@ -4,7 +4,7 @@ This project seeks to use multiple regression analysis to find out whether how h
 
 <br/>
 
-The notebook can be found [here.](9 to 5.ipynb)
+The notebook can be found [here.]([9 to 5.ipynb](https://github.com/jcarterlab/9-to-5/blob/main/9%20to%205.ipynb))
 
 The data can be found [here.](https://github.com/jcarterlab/9-to-5/tree/main/Data)
 
